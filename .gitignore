@@ -1,0 +1,7 @@
+# Archivos que no se incluirán en el repositorio
+
+*.tmp
+Nuevo documento de texto.txt
+
+# carpetas que no se incluirán en el repositorio
+/tmp
